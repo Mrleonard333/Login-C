@@ -3,8 +3,8 @@
 ### O sistema foi criado para testes com a leitura de arquivos de texto
 ### Neste sistema você pode Cadastrar e Logar ultilizando o Usuario
 ### Como no exemplo a seguir...
-### - [**[Cadastrar]**](Cadastrando)
-### - [**[Logar]**](Logando)
+### - [**[Cadastrar]**](#cadastrando)
+### - [**[Logar]**](#Logando)
 
 ## Cadastrando
 ```
@@ -52,4 +52,4 @@
  
 |========================================================|
 ```
-### [**[Voltar para cima]**]([Login-C])
+### [**[Voltar para cima]**](#[Login-C])
